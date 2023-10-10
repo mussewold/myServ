@@ -1,5 +1,4 @@
-{
-"data" : [{
+[{
       id: "0",
       name: "Shopping List",
       deadline: new Date(2020, 1, 15),
@@ -31,4 +30,4 @@
       isComplete: true,
       nodes: 3,
     },]
-}
+
